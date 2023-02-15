@@ -1,0 +1,4 @@
+userId,products,timestamp
+segmenttest1@yopmail.com,{presentment_currency:USD|price:6.998999999999999e+01|quantity:1|sku:PVOLVE52019P3}|{presentment_currency:USD|price:1.749900000000000e+02|quantity:1|sku:ULTPVOLVEPKPB},2021-10-28T19:43:52Z
+segmenttest2@yopmail.com,{presentment_currency:USD|price:6.998999999999999e+01|quantity:1|sku:PVOLVE52019P3},2021-10-29T15:17:01Z
+segmenttest3@yopmail.com,{presentment_currency:USD|price:1.749900000000000e+02|quantity:1|sku:ULTPVOLVEPKPB},2021-11-05T14:07:15Z
